@@ -1,0 +1,23 @@
+
+Class Name	Recurrence
+SPYearlySchedule
+Runs the timer job once per year
+SPMonthlySchedule
+Runs the timer job once per month on the specified day.
+For example, the 15 of the month
+SPMonthlyByDaySchedule
+Runs the timer job once per month on the specified day and week.
+For example, the 3rd Friday of the month
+SPWeeklySchedule
+Runs the timer job once per week
+SPDailySchdedule
+Runs the timer job once every day
+SPHourlySchedule
+Runs the timer job once every hour
+SPMinuteSchedule
+Runs the timer job once every n minutes 
+where n is the value in the Interval property
+
+SPOneTimeSchedule
+Runs the timer job once
+
